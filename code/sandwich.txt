@@ -1,0 +1,22 @@
+estimate: 35 lines
+
+define ingredients
+bread
+jelly
+peanut butter
+knife
+plate
+
+place one slice of bread on center of plate
+
+define function spread: 
+    take knife
+    take tablespoon of ingredient with knife
+    move knife in circular motion 5 times on bread
+
+spread jelly
+spread peanut butter
+
+place second slice of bread on top of bread, jelly, peanut butter
+
+end function
